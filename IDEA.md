@@ -16,6 +16,6 @@ $$P(X_{in} >= k) = 1 - P(X_{in} < k),$$
 where $X_{in}$ has binomial distribution.
 
 
-Let's create sample of J people which are familiar with samples of text of size $n_{1}..n_{J}$ and 
-generate their knowledge of all words based on calculated probabilities. Such people have different total number of known words and it holds that they know more frequent words with higher probability. We predict how many words a person knows based on comparison with this sample of generated people.
+Let's create sample of J people who are familiar with samples of text of size $n_{1}..n_{J}$ and 
+generate their knowledge of all words based on given probabilities. Such people know different number of words and it holds that they know more frequent words with higher probability. We predict how many words a person knows based on comparison with this sample of generated people.
 
