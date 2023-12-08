@@ -1,4 +1,6 @@
-It is common in every language that some words occur more often than others. For natural learners who learn by exposing themself to the language rather than by memorizing it, it is natural that they remember more frequent words faster. Such natural approach is called language acquisition and is based on learning by listening or reading rather than by learning grammar and memorizing vocabulary. Moreover, some polyglots say that they need to hear the word at least 20 to 30 times to actually remember it. We will use this in building our theory.
+## It is common in every language
+
+ that some words occur more often than others. For natural learners who learn by exposing themself to the language rather than by memorizing it, it is natural that they remember more frequent words faster. Such natural approach is called language acquisition and is based on learning by listening or reading rather than by learning grammar and memorizing vocabulary. Moreover, some polyglots say that they need to hear the word at least 20 to 30 times to actually remember it. We will use this in building our theory.
 
 Let's say there are words $S_{1}..S_{N}$ in a language with probabilities of occurence $p_{1}..p_{N}$. 
 Let's say a learner needs to see a word $k$ times to remember it.
